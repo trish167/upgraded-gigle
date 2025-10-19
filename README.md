@@ -1,4 +1,4 @@
-# trish167 # Hi, I'm Trisha
+# TahminaSultanaTrisha # Hi, I'm Trisha👋
 
 I'm a Computer Science student learning the fundamentals of programming with Python.  
 I enjoy solving problems and building small coding projects.
